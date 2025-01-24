@@ -4,7 +4,7 @@ I'm a passionate software developer with a focus on full-stack development, curr
 
 ## 🚀 Skills
 
-- **Front-end**: HTML, CSS
+- **Front-end**: HTML, CSS, JS
 - **Back-end**: Learning MERN (MongoDB, Express.js, React, Node.js)
 
 ## 🌱 Currently Learning
