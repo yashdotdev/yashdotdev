@@ -34,12 +34,12 @@ I'm a self-taught frontend developer working with JavaScript, React.js. Currentl
 
 <p align="left">
   <a href="https://linkedin.com/in/yashdotdev" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="30" style="margin-right: 10px"/>
-  </a>
+    <img src="https://img.icons8.com/ios-filled/30/0A66C2/linkedin.png" alt="LinkedIn" />
+  </a>&nbsp;&nbsp;
   <a href="https://x.com/yashdotdev" target="_blank">
-    <img src="https://img.shields.io/badge/X-black?logo=twitter&logoColor=white" alt="Twitter/X" height="30" style="margin-right: 10px"/>
-  </a>
+    <img src="https://img.icons8.com/ios-filled/30/000000/x.png" alt="X" />
+  </a>&nbsp;&nbsp;
   <a href="mailto:thisisyash459@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Email" height="30"/>
+    <img src="https://img.icons8.com/color/30/gmail-new.png" alt="Email" />
   </a>
 </p>
