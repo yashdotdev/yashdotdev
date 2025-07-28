@@ -37,7 +37,7 @@ I'm a self-taught frontend developer working with JavaScript, React.js. Currentl
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="30" style="margin-right: 10px"/>
   </a>
   <a href="https://x.com/yashdotdev" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968958.png" alt="Twitter/X" height="30" style="margin-right: 10px"/>
+    <img src="https://img.shields.io/badge/X-black?logo=twitter&logoColor=white" alt="Twitter/X" height="30" style="margin-right: 10px"/>
   </a>
   <a href="mailto:thisisyash459@gmail.com" target="_blank">
     <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Email" height="30"/>
