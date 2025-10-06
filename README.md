@@ -1,43 +1,41 @@
-## Hey there, I'm Yash 👋
+# Hey there, I'm Yash 👋
 
-I'm a self-taught frontend developer working with JavaScript, React.js. Currently exploring react by building real stuff and figuring out things.
+I'm a self-taught frontend developer passionate about JavaScript and React.js. I enjoy building real-world projects, learning by doing, and improving every day. Currently learning backend with Express.js while working toward becoming a full-stack developer.
 
 ---
 
-### 🛠 Tools & Technologies
+## 💻 Tools & Technologies
 
 <p align="left">
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E" />
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/node.js-%2343853D.svg?style=flat&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/vscode-%23007ACC.svg?style=flat&logo=visual-studio-code&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,tailwind,bootstrap,vite,git,github,vscode,figma,postman" />
 </p>
 
 ---
 
-### 📌 Projects
+## 🚀 Current Focus
 
-- [Weather App](https://my-js-weather-site.vercel.app/)
-- [Todo App](https://yashdotdev.github.io/Todo-List/)
-- [Dynamic Quiz App](https://trivia-quiz-app-js.netlify.app/)
+- Building React projects to sharpen my frontend skills
+- Learning backend concepts with Node and Express
+- Exploring how to create smoother and faster user experiences.
 
 ---
 
-### 📫 Connect with me
+## 📫 Connect with Me
 
-<p align="left">
-  <a href="https://linkedin.com/in/yashdotdev" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/30/0A66C2/linkedin.png" alt="LinkedIn" />
-  </a>&nbsp;&nbsp;
-  <a href="https://x.com/yashdotdev" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/30/000000/x.png" alt="X" />
-  </a>&nbsp;&nbsp;
-  <a href="mailto:thisisyash459@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/color/30/gmail-new.png" alt="Email" />
+<p>
+  <a href="https://linkedin.com/in/yashdotdev">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28"/>
+  </a>
+  <a href="https://twitter.com/yashdotdev">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="28"/>
+  </a>
+  <a href="mailto:thisisyash459@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28"/>
   </a>
 </p>
+
+---
+
+## 🙌 Thanks for visiting
+
+Always open to learning, building, and connecting with fellow developers.
